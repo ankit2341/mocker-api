@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Gertrudis Tatterton",
+        "mobile": 18,
+        "email": "gtatterton0@ehow.com",
+        "password": "123456"
+      },
+      {
+        "id": 2,
+        "username": "Gail Newbatt",
+        "mobile": 53,
+        "email": "gnewbatt1@un.org",
+        "password": "123436"
+      },
+      {
+        "id": 3,
+        "username": "Walliw Wilstead",
+        "mobile": 49,
+        "email": "wwilstead2@tripadvisor.com",
+        "password": "234567"
+      }
+    ]
+  }

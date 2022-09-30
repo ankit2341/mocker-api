@@ -1,0 +1,15 @@
+{
+  "name": "git-mocker-api",
+  "version": "1.0.0",
+  "description": "mocker-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
